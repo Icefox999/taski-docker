@@ -60,4 +60,4 @@ jobs:
           with:
             context: ./backend/
             push: true
-            tags: Icefox999/taski_backend:latest 
+            tags: isa999/taski_backend:latest 
